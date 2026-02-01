@@ -1,0 +1,11 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#board{
+    /* background-color: aquamarine; */
+    background-image: url('bgg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
